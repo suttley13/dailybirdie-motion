@@ -509,6 +509,22 @@
    "feed": "courses",
    "state": "ready"
   },
+  "d3282e4521d48a576d94f96bed81b9e813c86439075b6b609f4e997756bdad0e": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 143,
+   "fails": [],
+   "feed": "courses",
+   "state": "ready"
+  },
+  "d47b080a5fad597d2107850a5cb87163fa07f8f63caa9f0f65bb1d99c77c3bc7": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 142,
+   "fails": [],
+   "feed": "courses",
+   "state": "ready"
+  },
   "d8d580ad3e3d2ac1d35a2410f6c3aa9ea4b7cb742db812d5d21b3de7467bb7d8": {
    "attempts": 1,
    "builder": "3d2c049dd6dc995e",
