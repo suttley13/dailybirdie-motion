@@ -269,6 +269,14 @@
    "feed": "courses",
    "state": "refused"
   },
+  "517f43ab3123fa2b460a7907631bb7d05433cdfa3d2c653e73b1cbe8d46dfae5": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 141,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
   "547b610320e4a739ed34e4e64afed2bdec220bbc46c25db060f21a0d2ce54fe4": {
    "attempts": 1,
    "builder": "730bcee967f3de22",
@@ -338,6 +346,14 @@
    "course": 122,
    "fails": [],
    "feed": "courses",
+   "state": "ready"
+  },
+  "84dc9e197b1d877d3dfd0849d4b5770a99bbe1690548ab856a8309ac7037c9d3": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 140,
+   "fails": [],
+   "feed": "v3/courses",
    "state": "ready"
   },
   "8610afc66f2a0e1bd3a41a0fdd26392949a605fea4da4e84d879f1f6cba14107": {
