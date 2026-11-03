@@ -285,6 +285,14 @@
    "feed": "courses",
    "state": "ready"
   },
+  "61e0a654473b940fde70d51973288cec12aec7f77c3a86e6cf38a565523be5ed": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 142,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
   "6fde6c1e17ee18e0e91d0c65ba0e2998fe991c4dfa68f60e350fb5cf0885fa33": {
    "attempts": 1,
    "builder": "3d2c049dd6dc995e",
