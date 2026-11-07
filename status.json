@@ -490,6 +490,14 @@
    "feed": "courses",
    "state": "refused"
   },
+  "ad294979ac9f397c80fade081baf8a35ef6403d820723da7a422f6d0718c7058": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 146,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
   "b1079b9cbc95b2c3a9bf41137995ad4647fe4670fe068e5069b8f79405829e11": {
    "attempts": 1,
    "builder": "3d2c049dd6dc995e",
