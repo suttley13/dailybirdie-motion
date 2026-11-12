@@ -158,6 +158,14 @@
    "feed": "v2/courses",
    "state": "ready"
   },
+  "29e472f8c3825a46dbaeb4c865bce2788241c89c3a0bfd9c8f0e3b4a8fcee929": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 152,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
   "2ed4cc20a38298571a220ab40ce4b47563cc6f004a9e207fe124d09c9dafeba1": {
    "attempts": 1,
    "builder": "730bcee967f3de22",
