@@ -132,6 +132,14 @@
    "feed": "courses",
    "state": "ready"
   },
+  "268786bafb77b7e8815dac7525c3f8efe17975085b143dbedf845342f6a9af7d": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 158,
+   "fails": [],
+   "feed": "v2/courses",
+   "state": "ready"
+  },
   "2752c6dcdcb13482834251a1186bf440d46b3dfc996bd6c5c73a4e3f647050eb": {
    "attempts": 1,
    "builder": "3d2c049dd6dc995e",
@@ -263,6 +271,14 @@
    ],
    "feed": "courses",
    "state": "refused"
+  },
+  "4485cfb8ff8c4110d770ef4384934f64e7542c9024227fd082a0c14ec2ea828d": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 158,
+   "fails": [],
+   "feed": "courses",
+   "state": "ready"
   },
   "455b0663eb7ac46f2e085efc46ea7f288545a133785e6717268d6ad073ce8d03": {
    "attempts": 1,
@@ -535,6 +551,14 @@
    "feed": "courses",
    "state": "ready"
   },
+  "896246d6fa178cafc3c0c7ed2643d3b3f7b95a4470aeba5f6d49fdf968adee1f": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 160,
+   "fails": [],
+   "feed": "courses",
+   "state": "ready"
+  },
   "8973cb0f1f048e9a100232374dee801be13f9222bf3d0523f655f1132b3f1bc6": {
    "attempts": 1,
    "builder": "3d2c049dd6dc995e",
@@ -744,6 +768,14 @@
    "feed": "courses",
    "state": "ready"
   },
+  "cf8dd36a9404caf7e4f0c5de1a3492519b35867aeecfb534e3430c4b79ad00f7": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 160,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
   "d3282e4521d48a576d94f96bed81b9e813c86439075b6b609f4e997756bdad0e": {
    "attempts": 1,
    "builder": "730bcee967f3de22",
@@ -780,6 +812,14 @@
    "attempts": 1,
    "builder": "38804a0b5e3174e7",
    "course": 136,
+   "fails": [],
+   "feed": "courses",
+   "state": "ready"
+  },
+  "da2aa7d2f3e2b1f8f852d0d4192b603c0ff8307e4589cae3256a5c87572d9924": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 159,
    "fails": [],
    "feed": "courses",
    "state": "ready"
@@ -891,6 +931,14 @@
    "course": 145,
    "fails": [],
    "feed": "v2/courses",
+   "state": "ready"
+  },
+  "fd772cf6d96d5c21f1f65da1e86e384e154e1cb5a80dc1badaa27d28a5e95f16": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 159,
+   "fails": [],
+   "feed": "v3/courses",
    "state": "ready"
   },
   "fddbf52b9f6c15fb24482eaf907a562dc8568eebc20cfdc43cefeec2de6da91b": {
