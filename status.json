@@ -404,6 +404,14 @@
    "feed": "courses",
    "state": "ready"
   },
+  "73577f9ec6599079a28ae91a5aa0e42e39dbb8a37f5b3a39b2dc904fe6522cb6": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 156,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
   "745861357deb282a0ef6cffbe87e89d930093801e0eba0ca08a7634d87d62f12": {
    "attempts": 1,
    "builder": "730bcee967f3de22",
@@ -542,6 +550,14 @@
    "attempts": 1,
    "builder": "730bcee967f3de22",
    "course": 148,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
+  "8bb8a68c119010e452682f73fdc687b2d2beb3c0073dc192055da2d0fb938a55": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 157,
    "fails": [],
    "feed": "v3/courses",
    "state": "ready"
@@ -843,6 +859,14 @@
    "course": 127,
    "fails": [],
    "feed": "v2/courses",
+   "state": "ready"
+  },
+  "f51ff1cbe6543cebaee79c2dba0fe03e8e01dce39e8cc545a99ed5ad0a993b73": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 157,
+   "fails": [],
+   "feed": "courses",
    "state": "ready"
   },
   "f58a93c4b434559cb9527a497004109cd1a93c9dd3df5529b0065e15d2d33683": {
