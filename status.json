@@ -270,6 +270,17 @@
    "feed": "courses",
    "state": "ready"
   },
+  "4416954a7d89d11e7c083ff139c8d971422a9e97911114372b9db7f34d4d6622": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 164,
+   "fails": [
+    "manifest marks placeholder art",
+    "artwork is flat (0.72), likely the placeholder"
+   ],
+   "feed": "courses",
+   "state": "refused"
+  },
   "443ba78fdf2dfd613dd35f3dcf0d6c4d1dfe2da469c12de18bdc00c5321bb63c": {
    "attempts": 1,
    "builder": "3d2c049dd6dc995e",
