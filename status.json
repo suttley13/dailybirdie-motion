@@ -108,6 +108,14 @@
    "feed": "courses",
    "state": "ready"
   },
+  "1cf9ef6a9796bd3b5f31465d708f3ad54006eeacd2b75da7334c9dfdad38c615": {
+   "attempts": 1,
+   "builder": "730bcee967f3de22",
+   "course": 163,
+   "fails": [],
+   "feed": "v3/courses",
+   "state": "ready"
+  },
   "2020dd820715146c7011e9edfe564216e985c7e653271f36b15a090f643ee5e0": {
    "attempts": 1,
    "builder": "3d2c049dd6dc995e",
